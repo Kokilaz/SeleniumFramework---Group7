@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeClass;
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
-    static WebDriver driver = null;
+    public static WebDriver driver = null;
     String url = null;
 
     @BeforeClass
