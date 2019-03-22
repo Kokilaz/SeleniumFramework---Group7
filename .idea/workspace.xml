@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923e324f-7a69-4fa7-ac15-e6a40a2e9367" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MidtermJanuary2019" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermJanuary2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethiSeleniumProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethiSeleniumProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethiSeleniumProject/driver/chromedriver 2" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethiSeleniumProject/Generic/driver/chromedriver 2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethisFirstProject/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethisFirstProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethisFirstProject/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethisFirstProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/PreethisFirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethisFirstProject/PreethisFirstProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/common/driver/chromedriver 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/common/target/classes/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/AddToBag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/CartPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/ClearCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/EucalyptusSpearmint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/HomeFragrance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/classes/SingleWickCandle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestAddToBag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestClearCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestEucalyptusSpearmint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestHomeFragrance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreethisFirstProject/fordham/target/test-classes/TestSingleWickCandle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium /WebAutomationFramework2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium /WebAutomationFramework2019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/preethisframework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,11 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="330">
               <caret line="22" column="30" selection-start-line="15" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
             </state>
           </provider>
@@ -56,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="540">
               <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
             </state>
           </provider>
@@ -84,7 +56,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-562">
+            <state relative-caret-position="15">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
@@ -96,11 +68,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -119,9 +92,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="749" />
-    <option name="y" value="34" />
-    <option name="width" value="826" />
+    <option name="x" value="203" />
+    <option name="y" value="23" />
+    <option name="width" value="1237" />
     <option name="height" value="814" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -132,34 +105,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumFramework---Group7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFramework---Group7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumFramework---Group7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFramework---Group7" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumFramework---Group7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFramework---Group7" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="sql-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFramework---Group7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFramework---Group7" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFramework---Group7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFramework---Group7" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFramework---Group7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFramework---Group7" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553123747876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553236572284" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -213,20 +209,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="65" width="1424" height="814" extended-state="0" />
-    <editor active="true" />
+    <frame x="203" y="23" width="1237" height="814" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496382" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16736402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32963988" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32963988" />
@@ -234,17 +226,35 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32963988" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" selection-start-line="15" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -258,23 +268,12 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="30" selection-start-line="15" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-562">
+        <state relative-caret-position="15">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
