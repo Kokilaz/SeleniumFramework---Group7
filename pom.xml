@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>BathandBodyWorks</module>
+        <module>NYPresbyterian</module>
     </modules>
 
     <dependencyManagement>

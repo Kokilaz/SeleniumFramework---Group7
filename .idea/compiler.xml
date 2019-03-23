@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BathandBodyWorks" />
         <module name="Generic" />
+        <module name="NYPresbyterian" />
       </profile>
     </annotationProcessing>
   </component>

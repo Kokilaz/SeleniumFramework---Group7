@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923e324f-7a69-4fa7-ac15-e6a40a2e9367" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/AddToBag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MidtermJanuary2019" beforeDir="false" afterPath="$PROJECT_DIR$/../MidtermJanuary2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PreethiSeleniumProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethiSeleniumProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PreethiSeleniumProject/driver/chromedriver 2" beforeDir="false" afterPath="$PROJECT_DIR$/../PreethiSeleniumProject/Generic/driver/chromedriver 2" afterDir="false" />
@@ -31,10 +30,15 @@
       <change beforePath="$PROJECT_DIR$/../Selenium /WebAutomationFramework2019" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium /WebAutomationFramework2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/sql-driver/mysql-connector-java-8.0.15.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BathandBodyWorks/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BathandBodyWorks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BathandBodyWorks/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/BathandBodyWorks/target/classes/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/sql-driver/.mysql-connector-java-8.0.15.tar.icloud" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../preethisframework/.idea/preethisframework.iml" beforeDir="false" />
@@ -44,22 +48,68 @@
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/BathandBodyWorks/target/" />
+    <ignored path="$PROJECT_DIR$/NYPresbyterian/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SeleniumFrameworkGroup7" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/BlackCherryMerlot.java">
+        <entry file="file://$PROJECT_DIR$/NYPresbyterian/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYPresbyterian/src/test/resources/NYPRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/resources/BathandBodyWorksTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -67,74 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/ExfoliatingSoaps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/Gifts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/GiftsForHim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestBlackCherryMerlot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestExfoliatingSoaps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGifts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="358">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGiftsForHim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,12 +139,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+        <entry file="file://$PROJECT_DIR$/NYPresbyterian/src/main/java/HomePage/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="372">
+              <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+                <element signature="e#1895#1896#0" expanded="true" />
+                <element signature="e#1925#1926#0" expanded="true" />
+                <element signature="e#2100#2101#0" expanded="true" />
+                <element signature="e#2129#2130#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+                <element signature="e#2289#2290#0" expanded="true" />
+                <element signature="e#2430#2431#0" expanded="true" />
+                <element signature="e#2458#2459#0" expanded="true" />
+                <element signature="e#2592#2593#0" expanded="true" />
+                <element signature="e#2619#2620#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NYPresbyterian/src/test/java/TestHomePage/TestMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#1132#1133#0" expanded="true" />
+                <element signature="e#1173#1174#0" expanded="true" />
+                <element signature="e#1214#1215#0" expanded="true" />
+                <element signature="e#1247#1248#0" expanded="true" />
+                <element signature="e#1360#1361#0" expanded="true" />
+                <element signature="e#1383#1384#0" expanded="true" />
+                <element signature="e#1444#1445#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1522#1523#0" expanded="true" />
+                <element signature="e#1545#1546#0" expanded="true" />
+                <element signature="e#1598#1599#0" expanded="true" />
+                <element signature="e#1621#1622#0" expanded="true" />
+                <element signature="e#1673#1674#0" expanded="true" />
+                <element signature="e#1696#1697#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,6 +196,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -183,10 +209,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
-        <option value="$PROJECT_DIR$/BathandBodyWorks/pom.xml" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/AddToBag.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/BodyCare.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/BodyCareItems.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/CartPage.java" />
@@ -194,7 +217,6 @@
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/EucalyptusSpearmint.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HandSoaps.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomeFragrance.java" />
-        <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomePage.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/Login.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/SelectBodyCare.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/SingleWickCandle.java" />
@@ -205,7 +227,6 @@
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestClearCart.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestEucalyptusSpearmint.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomeFragrance.java" />
-        <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomePage.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestLogin.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestSelectBodyCare.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestSingleWickCandle.java" />
@@ -219,6 +240,17 @@
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGifts.java" />
         <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGiftsForHim.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/resources/BathandBodyWorksTestRunner.fxml" />
+        <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/resources/BathandBodyWorksTestRunner.xml" />
+        <option value="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/BathandBodyWorks/pom.xml" />
+        <option value="$PROJECT_DIR$/NYPresbyterian/pom.xml" />
+        <option value="$PROJECT_DIR$/NYPresbyterian/src/test/resources/NYPRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/NYPresbyterian/src/main/java/HomePage/MainPage.java" />
+        <option value="$PROJECT_DIR$/NYPresbyterian/src/test/java/TestHomePage/TestMainPage.java" />
       </list>
     </option>
   </component>
@@ -230,10 +262,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="25" />
-    <option name="width" value="1379" />
-    <option name="height" value="825" />
+    <option name="x" value="90" />
+    <option name="y" value="50" />
+    <option name="width" value="1292" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -255,46 +287,61 @@
             <path>
               <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="BathandBodyWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="BathandBodyWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="BathandBodyWorks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumFrameworkGroup7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumFrameworkGroup7" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPresbyterian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestHomePage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,13 +350,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553221876867" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553306965898" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NYPresbyterian/src/test" />
+      <recent name="$PROJECT_DIR$/BathandBodyWorks/src/test" />
       <recent name="$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages" />
       <recent name="$PROJECT_DIR$/BathandBodyWorks/src/main/resources" />
     </key>
@@ -319,6 +368,7 @@
       <recent name="utility" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/sql-driver" />
       <recent name="$PROJECT_DIR$/BathandBodyWorks" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
       <recent name="$PROJECT_DIR$/Generic" />
@@ -336,44 +386,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConnectToSqlDB">
-    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
-      <module name="Generic" />
+  <component name="RunManager" selected="TestNG.TestMainPage.Visitors">
+    <configuration name="TestMainPage.Locations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPresbyterian" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="databases.*" />
+          <option name="PATTERN" value="TestHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
-      <module name="Generic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="databases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestGiftsForHim.GFHTab" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BathandBodyWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestPages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestPages" />
-      <option name="MAIN_CLASS_NAME" value="TestPages.TestGiftsForHim" />
-      <option name="METHOD_NAME" value="GFHTab" />
+      <option name="PACKAGE_NAME" value="TestHomePage" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestMainPage" />
+      <option name="METHOD_NAME" value="Locations" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -381,17 +405,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHandSoaps.HSTab" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BathandBodyWorks" />
+    <configuration name="TestMainPage.PayMyBill" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPresbyterian" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestPages.*" />
+          <option name="PATTERN" value="TestHomePage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestPages" />
-      <option name="MAIN_CLASS_NAME" value="TestPages.TestHandSoaps" />
-      <option name="METHOD_NAME" value="HSTab" />
+      <option name="PACKAGE_NAME" value="TestHomePage" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestMainPage" />
+      <option name="METHOD_NAME" value="PayMyBill" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainPage.TestCancer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPresbyterian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHomePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHomePage" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestMainPage" />
+      <option name="METHOD_NAME" value="TestCancer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainPage.TestOurServices" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPresbyterian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHomePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHomePage" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestMainPage" />
+      <option name="METHOD_NAME" value="TestOurServices" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainPage.Visitors" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPresbyterian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHomePage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHomePage" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestMainPage" />
+      <option name="METHOD_NAME" value="Visitors" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -401,10 +479,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConnectToSqlDB" />
-        <item itemvalue="TestNG.TestGiftsForHim.GFHTab" />
-        <item itemvalue="TestNG.TestHandSoaps.HSTab" />
-        <item itemvalue="Application.ConnectToMongoDB" />
+        <item itemvalue="TestNG.TestMainPage.Visitors" />
+        <item itemvalue="TestNG.TestMainPage.Locations" />
+        <item itemvalue="TestNG.TestMainPage.PayMyBill" />
+        <item itemvalue="TestNG.TestMainPage.TestOurServices" />
+        <item itemvalue="TestNG.TestMainPage.TestCancer" />
       </list>
     </recent_temporary>
   </component>
@@ -422,55 +501,72 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHandSoaps_HSTab - 2019.03.21 at 09h 28m 48s.xml">
-      <configuration name="TestHandSoaps.HSTab" configurationId="TestNG" />
+    <history-entry file="TestMainPage - 2019.03.22 at 21h 44m 12s.xml">
+      <configuration name="TestMainPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestGiftsForHim_GFHTab - 2019.03.21 at 21h 29m 57s.xml">
-      <configuration name="TestGiftsForHim.GFHTab" configurationId="TestNG" />
+    <history-entry file="TestMainPage - 2019.03.22 at 21h 46m 48s.xml">
+      <configuration name="TestMainPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage - 2019.03.22 at 21h 48m 11s.xml">
+      <configuration name="TestMainPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage - 2019.03.22 at 21h 49m 50s.xml">
+      <configuration name="TestMainPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_TestFindADoctor - 2019.03.22 at 21h 53m 54s.xml">
+      <configuration name="TestMainPage.TestFindADoctor" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_TestCancer - 2019.03.22 at 21h 54m 17s.xml">
+      <configuration name="TestMainPage.TestCancer" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_TestOurServices - 2019.03.22 at 21h 57m 34s.xml">
+      <configuration name="TestMainPage.TestOurServices" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_PayMyBill - 2019.03.22 at 21h 59m 44s.xml">
+      <configuration name="TestMainPage.PayMyBill" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Locations - 2019.03.22 at 22h 04m 35s.xml">
+      <configuration name="TestMainPage.Locations" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMainPage_Visitors - 2019.03.22 at 22h 09m 32s.xml">
+      <configuration name="TestMainPage.Visitors" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="25" width="1379" height="825" extended-state="0" />
+    <frame x="90" y="50" width="1292" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580404" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979757" visible="true" weight="0.2904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32742155" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32742155" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5020243" side_tool="true" weight="0.2904" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32469305" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32421342" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32739726" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3255814" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="30" selection-start-line="16" selection-start-column="8" selection-end-line="47" selection-end-column="23" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -486,27 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages.java" />
     <entry file="file://$PROJECT_DIR$/BathandBodyWorks/Driver/chromedriver">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -571,16 +647,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomeFragrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -690,29 +756,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestSelectBodyCare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -752,6 +796,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/secret.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/BlackCherryMerlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/resources/BathandBodyWorksTestRunner.fxml" />
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/ExfoliatingSoaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/Gifts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -766,49 +834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestExfoliatingSoaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGifts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGiftsForHim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/secret.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestBlackCherryMerlot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -819,32 +844,173 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/BlackCherryMerlot.java">
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestExfoliatingSoaps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGifts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestSelectBodyCare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPresbyterian/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/resources/BathandBodyWorksTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPresbyterian/src/test/resources/NYPRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="358">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/main/java/Pages/ExfoliatingSoaps.java">
+    <entry file="file://$PROJECT_DIR$/BathandBodyWorks/src/test/java/TestPages/TestGiftsForHim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPresbyterian/src/main/java/HomePage/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+            <element signature="e#1925#1926#0" expanded="true" />
+            <element signature="e#2100#2101#0" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2289#2290#0" expanded="true" />
+            <element signature="e#2430#2431#0" expanded="true" />
+            <element signature="e#2458#2459#0" expanded="true" />
+            <element signature="e#2592#2593#0" expanded="true" />
+            <element signature="e#2619#2620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPresbyterian/src/test/java/TestHomePage/TestMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1545#1546#0" expanded="true" />
+            <element signature="e#1598#1599#0" expanded="true" />
+            <element signature="e#1621#1622#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -901,7 +1067,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BathandBodyWorks</last-edited>
+          <last-edited>SeleniumFrameworkGroup7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
