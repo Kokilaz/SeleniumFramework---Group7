@@ -32,17 +32,17 @@ public class MainPage extends CommonAPI {
     //@FindBy(id = "Search")
     //WebElement SearchButton;
 
-    @FindBy(css = "#service > strong")
-    WebElement ChooseAService;
+   // @FindBy(css = "#service > strong")
+    //WebElement ChooseAService;
 
-    @FindBy(xpath = "/html/body/globalheader/div/div[2]/div/div/ul/li[2]/a/span[2]")
-    WebElement Cancer;
+    //@FindBy(xpath = "/html/body/globalheader/div/div[2]/div/div/ul/li[2]/a/span[2]")
+    //WebElement Cancer;
 
     @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[1]/ul/li[1]/a")
     WebElement FindADoctor;
 
     @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[1]/ul/li[2]/a")
-    WebElement OurServces;
+    WebElement OurServices;
 
     @FindBy(xpath ="//*[@id=\"primrow\"]/div/div[1]/ul/li[3]/a" )
     WebElement PaymyBill;
@@ -53,12 +53,76 @@ public class MainPage extends CommonAPI {
     @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[1]/ul/li[5]/a")
     WebElement Visitors;
 
+    @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[2]/ul/li[1]/a")
+    WebElement AboutUs;
+
+    @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[2]/ul/li[2]/a")
+    WebElement ClinicalTrials;
+
+    @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[2]/ul/li[3]/a")
+    WebElement HealthLibrary;
+
+    @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[2]/ul/li[4]/a")
+    WebElement GiveToNYP;
+
+    @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[2]/ul/li[5]/a")
+    WebElement ContactUs;
+
+    @FindBy(xpath = "/html/body/globalheader/div/div[1]/div/div[2]/ul/li[1]/a/img")
+    WebElement FacebookIcon;
+
+    @FindBy(xpath = "/html/body/globalheader/div/div[1]/div/div[2]/ul/li[2]/a/img")
+    WebElement TwitterIcon;
+
+    @FindBy(xpath = "/html/body/globalheader/div/div[1]/div/div[2]/ul/li[3]/a/img")
+    WebElement InstagramIcon;
+
+    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[2]/div[2]/div[1]/div[1]/a/img")
+    WebElement UrgentCareButton;
+
+    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[2]/div[2]/div[1]/div[2]/a/div/div/p[2]")
+    WebElement HealthMattersVideoButton;
+
+   // @FindBy(linkText = "AmazingThingsAreHappeningHere")
+    //WebElement AmazingThingsTile;
+   // @FindBy(id = "service")
+    //WebElement ChooseAService;
+
+    //@FindBy(xpath = "/html/body/globalheader/div/div[2]/div/div/ul/li[2]/a")
+    //WebElement Cancer;
+
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[2]/a")
+    WebElement NewsRoom;
+
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[4]/a")
+    WebElement GlobalServices;
+
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[5]/a")
+    WebElement ForProfessionals;
+
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[6]/a")
+    WebElement Employees;
+
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[7]/a")
+    WebElement ForVendors;
+
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[8]/a")
+    WebElement Careers;
+
+    @FindBy(xpath = "/html/body/div[2]/div/div[5]/div[1]/div/h3")
+    WebElement MedicalServices;
 
 
 
 
 
-// Methods
+
+
+
+
+
+
+// NYP Methods
     public void CheckLogo(){
         Logo.click();
     }
@@ -71,22 +135,22 @@ public class MainPage extends CommonAPI {
           //  SearchButton.click();
        // }
 
-        public void ChooseAService() {
+       // public void ChooseAService() {
            // WebDriverWait wait = new WebDriverWait(driver, 1, 5000);
             //wait.until(ExpectedConditions.visibilityOf(ChooseAService));
-            ChooseAService.click();
-        }
+           // ChooseAService.click();
+        //}
 
-        public void Cancer() {
-            Cancer.click();
-        }
+        //public void Cancer() {
+            //Cancer.click();
+        //}
 
         public void FindADoctor(){
         FindADoctor.click();
         }
 
         public void OurServices(){
-        OurServces.click();
+        OurServices.click();
         }
         public void PayMyBill(){
         PaymyBill.click();
@@ -99,4 +163,87 @@ public class MainPage extends CommonAPI {
         public void Visitors(){
         Visitors.click();
         }
+
+        public void AboutUs(){
+        AboutUs.click();
+        }
+
+        public void ClinicalTrials(){
+        ClinicalTrials.click();
+        }
+
+        public void HealthLibrary(){
+        HealthLibrary.click();
+        }
+
+        public void GiveToNYP(){
+        GiveToNYP.click();
+        }
+
+        public void ContactUs(){
+        ContactUs.click();
+        }
+
+        public void FacebookIcon(){
+        FacebookIcon.click();
+        }
+
+        public void TwitterIcon(){
+        TwitterIcon.click();
+        }
+
+        public void InstagramIcon(){
+        InstagramIcon.click();
+        }
+
+        public void UrgentCare(){
+        UrgentCareButton.click();
+        }
+
+        public void HealthMattersVideoButton(){
+        HealthMattersVideoButton.click();
+        }
+
+        //public void AmazingThingsTile(){
+       // AmazingThingsTile.click();
+       // }
+        /*public void ChooseAService(){
+        WebDriverWait wait = new WebDriverWait(driver, 1, 20);
+        wait.until(ExpectedConditions.visibilityOf(ChooseAService));
+        ChooseAService.click();
+        }
+
+        public void Cancer(){
+        Cancer.click();
+        }*/
+
+        public void NewsRoom(){
+            NewsRoom.click();
+        }
+
+        public void GlobalServices(){
+            GlobalServices.click();
+        }
+
+        public void ForProfessionals(){
+            ForProfessionals.click();
+        }
+
+        public void Employees(){
+            Employees.click();
+        }
+
+        public void ForVendors(){
+            ForVendors.click();
+        }
+
+        public void Careers(){
+            Careers.click();
+        }
+
+        public void MedicalServices(){
+            MedicalServices.click();
+        }
+
+
     }
