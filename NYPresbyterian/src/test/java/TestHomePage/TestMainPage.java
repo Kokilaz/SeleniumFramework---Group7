@@ -75,7 +75,7 @@ public class TestMainPage extends MainPage {
 
     @Test
     public void AboutUs(){
-        mainPage.Visitors();
+        mainPage.AboutUs();
     }
 
     @Test
