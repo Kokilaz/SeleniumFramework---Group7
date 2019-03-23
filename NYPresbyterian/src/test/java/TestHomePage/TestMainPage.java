@@ -175,4 +175,7 @@ public class TestMainPage extends MainPage {
     public void MedicalServices(){
         mainPage.MedicalServices();
     }
+
+    @Test
+    public void Events(){ mainPage.Events();}
 }
