@@ -112,13 +112,8 @@ public class MainPage extends CommonAPI {
     @FindBy(xpath = "/html/body/div[2]/div/div[5]/div[1]/div/h3")
     WebElement MedicalServices;
 
-
-
-
-
-
-
-
+    @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[9]/a")
+    WebElement Events;
 
 
 
@@ -244,6 +239,8 @@ public class MainPage extends CommonAPI {
         public void MedicalServices(){
             MedicalServices.click();
         }
+
+        public void Events(){ Events.click();}
 
 
     }
