@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="TestSelectAll">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="getselectall"/>
+        </methods>
+      </class> <!-- TestSelectAll -->
+      <class name="TestHandsantizer">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="getsanitizer"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestHandsantizer -->
+      <class name="TestSeletProductType">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="dropProducttype"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestSeletProductType -->
+      <class name="TestFoamingsoaps">
+        <methods>
+          <include name="category"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestFoamingsoaps -->
+      <class name="TestShop">
+        <methods>
+          <include name="getTestshop"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestShop -->
+      <class name="TestSelectBodycare">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="openBodycare"/>
+        </methods>
+      </class> <!-- TestSelectBodycare -->
+      <class name="TestNourishingSoaps">
+        <methods>
+          <include name="category"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestNourishingSoaps -->
+      <class name="TestLogin">
+        <methods>
+          <include name="openLoginTest"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestLogin -->
+      <class name="TestSoapholder">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="category"/>
+        </methods>
+      </class> <!-- TestSoapholder -->
+      <class name="TestTitle">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="select"/>
+        </methods>
+      </class> <!-- TestTitle -->
+      <class name="TestProductOn">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="cream"/>
+        </methods>
+      </class> <!-- TestProductOn -->
+      <class name="TestDogbarksProduct">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="getdog"/>
+        </methods>
+      </class> <!-- TestDogbarksProduct -->
+      <class name="TestTulip">
+        <methods>
+          <include name="gettulip"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestTulip -->
+      <class name="TestFragrancedropdown">
+        <methods>
+          <include name="fragrancename"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestFragrancedropdown -->
+      <class name="TestExfoliatingsoap">
+        <methods>
+          <include name="category"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestExfoliatingsoap -->
+      <class name="TestFragranceCategory">
+        <methods>
+          <include name="category"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestFragranceCategory -->
+      <class name="TestClickshop">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="getclickshop"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestClickshop -->
+      <class name="TestPocketBac">
+        <methods>
+          <include name="getpocketbac"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestPocketBac -->
+      <class name="TestNewBodyCare">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="care"/>
+        </methods>
+      </class> <!-- TestNewBodyCare -->
+      <class name="TestSignout">
+        <methods>
+          <include name="logout"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestSignout -->
+      <class name="TestProductdropdown">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="productdropdown"/>
+        </methods>
+      </class> <!-- TestProductdropdown -->
+      <class name="TestHomePage">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="navigateToHomePage"/>
+        </methods>
+      </class> <!-- TestHomePage -->
+      <class name="TestCheckout">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="aftercheckout"/>
+        </methods>
+      </class> <!-- TestCheckout -->
+      <class name="TestgetTitle">
+        <methods>
+          <include name="gettitle"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestgetTitle -->
+      <class name="TestProduct">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+          <include name="gotoproduct"/>
+        </methods>
+      </class> <!-- TestProduct -->
+      <class name="TestCandleholder">
+        <methods>
+          <include name="cleanUp"/>
+          <include name="getcandleholder"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestCandleholder -->
+      <class name="TestHome">
+        <methods>
+          <include name="testgobacktohome"/>
+          <include name="cleanUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestHome -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
