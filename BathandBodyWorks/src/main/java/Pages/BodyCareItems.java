@@ -13,7 +13,6 @@ public class BodyCareItems extends CommonAPI {
         WebElement WaikikiBC = driver.findElement(By.xpath("//*[@id=\"26ee6803b54d53d08711ab72ea\"]/div[1]/a/div[3]/div[1]"));
         wait.until(ExpectedConditions.visibilityOf(WaikikiBC));
         WaikikiBC.click();
-
     }
 
     public static void BlackCoconutSands() {

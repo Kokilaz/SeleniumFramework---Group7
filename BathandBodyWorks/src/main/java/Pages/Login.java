@@ -12,7 +12,7 @@ public class Login extends CommonAPI {
         WebDriverWait wait = new WebDriverWait(driver, 1, 5000);
         HomePage.testUserCanNavigateToHomePage();
         driver.findElement(By.cssSelector("#wrapper > header > div.top-banner.stickyOn > div.wrap > div.icon-items > ul > li > a > svg")).click();
-        loginButton = driver.findElement((By.cssSelector("#wrapper > header > div.top-banner.stickyOn > div.wrap > div.icon-items > ul > li > div > div > a:nth-child(1)")));
+         driver.findElement((By.cssSelector("#wrapper > header > div.top-banner.stickyOn > div.wrap > div.icon-items > ul > li > div > div > a:nth-child(1)")));
         wait.until(ExpectedConditions.visibilityOf(loginButton));
         loginButton.click();
     }

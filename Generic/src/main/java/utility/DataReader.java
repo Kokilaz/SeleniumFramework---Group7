@@ -7,29 +7,34 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
 
 import java.io.*;
 
 public class DataReader {
 
-    HSSFWorkbook workbook;
-    HSSFSheet sheet;
+    XSSFWorkbook workbook;
+    XSSFSheet sheet;
 
     public String[] getExcelData(String path, int sheetIndex) {
         String[] data = {};
         try{
         File file = new File(path);
         FileInputStream fis = new FileInputStream(file);
-        workbook = new HSSFWorkbook(fis);
+        workbook = new XSSFWorkbook(fis);
         sheet = workbook.getSheetAt(sheetIndex);
         int numberOfRows = sheet.getLastRowNum() + 1;
         int numberOfColumns = sheet.getRow(0).getLastCellNum();
         data = new String[numberOfRows-1];
 
         for(int i = 1; i < numberOfRows; i++) {
-            HSSFRow row = sheet.getRow(i);
+            XSSFRow row = sheet.getRow(i);
             for (int j = 0; j < numberOfColumns; j++) {
-                HSSFCell cell = row.getCell(j);
+                XSSFCell cell = row.getCell(j);
                 String cellData = getCellValue(cell);
                 data[i - 1] = cellData;
             }
@@ -41,7 +46,7 @@ public class DataReader {
         return data;
 }
 
-public  String getCellValue(HSSFCell cell) {
+ public String getCellValue(XSSFCell cell) {
     CellType cellType = cell.getCellTypeEnum();
     Object value = null;
 

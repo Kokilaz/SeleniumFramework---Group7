@@ -13,30 +13,9 @@ import org.testng.annotations.Test;
 
 public class MainPage extends CommonAPI {
 
-   /*static String homepageUrl = "https://www.nyp.org/home";
-
-    public static void testUserCanNavigateToHomePage() {
-        String homepageTitle = "NYP.org - NewYork-Presbyterian";
-        driver.navigate().to(homepageUrl);
-        driver.findElement(By.cssSelector("head > title")).click();
-        driver.manage().window().maximize();
-        Assert.assertEquals(driver.getTitle(), homepageTitle);*/
-
 
     @FindBy(id = "logoImgId")
      WebElement Logo;
-
-   // @FindBy(xpath = "//*[@id=\"txtSearch\"]")
-   // WebElement SearchBox;
-
-    //@FindBy(id = "Search")
-    //WebElement SearchButton;
-
-   // @FindBy(css = "#service > strong")
-    //WebElement ChooseAService;
-
-    //@FindBy(xpath = "/html/body/globalheader/div/div[2]/div/div/ul/li[2]/a/span[2]")
-    //WebElement Cancer;
 
     @FindBy(xpath = "//*[@id=\"primrow\"]/div/div[1]/ul/li[1]/a")
     WebElement FindADoctor;
@@ -83,14 +62,6 @@ public class MainPage extends CommonAPI {
     @FindBy(xpath = "/html/body/div[2]/div/div/div/div[2]/div[2]/div[1]/div[2]/a/div/div/p[2]")
     WebElement HealthMattersVideoButton;
 
-   // @FindBy(linkText = "AmazingThingsAreHappeningHere")
-    //WebElement AmazingThingsTile;
-   // @FindBy(id = "service")
-    //WebElement ChooseAService;
-
-    //@FindBy(xpath = "/html/body/globalheader/div/div[2]/div/div/ul/li[2]/a")
-    //WebElement Cancer;
-
     @FindBy(xpath = "/html/body/footer/div/div[2]/div/ul/li[2]/a")
     WebElement NewsRoom;
 
@@ -118,27 +89,9 @@ public class MainPage extends CommonAPI {
 
 
 // NYP Methods
-    public void CheckLogo(){
+        public void CheckLogo(){
         Logo.click();
     }
-
-   // public void EnterInSearchBox(String search) {
-       // SearchBox.sendKeys(search, Keys.ENTER);
-
-    //}
-       // public void SearchButton() {
-          //  SearchButton.click();
-       // }
-
-       // public void ChooseAService() {
-           // WebDriverWait wait = new WebDriverWait(driver, 1, 5000);
-            //wait.until(ExpectedConditions.visibilityOf(ChooseAService));
-           // ChooseAService.click();
-        //}
-
-        //public void Cancer() {
-            //Cancer.click();
-        //}
 
         public void FindADoctor(){
         FindADoctor.click();
@@ -199,19 +152,6 @@ public class MainPage extends CommonAPI {
         HealthMattersVideoButton.click();
         }
 
-        //public void AmazingThingsTile(){
-       // AmazingThingsTile.click();
-       // }
-        /*public void ChooseAService(){
-        WebDriverWait wait = new WebDriverWait(driver, 1, 20);
-        wait.until(ExpectedConditions.visibilityOf(ChooseAService));
-        ChooseAService.click();
-        }
-
-        public void Cancer(){
-        Cancer.click();
-        }*/
-
         public void NewsRoom(){
             NewsRoom.click();
         }
@@ -241,6 +181,5 @@ public class MainPage extends CommonAPI {
         }
 
         public void Events(){ Events.click();}
-
 
     }

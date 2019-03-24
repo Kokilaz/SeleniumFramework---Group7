@@ -13,6 +13,5 @@ public class ExfoliatingSoaps extends CommonAPI {
         ExSTab = driver.findElement(By.cssSelector("#secondary > div.filter-overflow > div.filter-content > div.active-sub-category > ul:nth-child(4) > li:nth-child(3) > a"));
         wait.until(ExpectedConditions.visibilityOf(ExSTab));
         ExSTab.click();
-
     }
 }

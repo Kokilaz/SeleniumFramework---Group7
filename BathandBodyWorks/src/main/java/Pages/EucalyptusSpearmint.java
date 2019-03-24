@@ -14,7 +14,6 @@ public class EucalyptusSpearmint extends CommonAPI {
         ESCandle = driver.findElement(By.xpath("//*[@id=\"7437fea71005be2be3701a2f4c\"]/div[1]/a/div[3]/div[1]"));
         wait.until(ExpectedConditions.visibilityOf(ESCandle));
         ESCandle.click();
-
     }
 
     public static void RVCandle(){

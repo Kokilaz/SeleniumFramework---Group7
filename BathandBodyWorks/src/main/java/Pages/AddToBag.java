@@ -25,8 +25,6 @@ public class AddToBag extends CommonAPI {
         wait.until(ExpectedConditions.visibilityOf(Addtobag));
         Addtobag.click();
         driver.navigate().back();
-
-
     }
 
     public static void AddMore() {

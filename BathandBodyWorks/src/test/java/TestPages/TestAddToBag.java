@@ -42,6 +42,5 @@ public class TestAddToBag extends AddToBag {
         AddToBag.AddOneMore();
         BodyCareItems.SandalwoodEucalyptus();
         AddToBag.AddMore();
-
     }
 }

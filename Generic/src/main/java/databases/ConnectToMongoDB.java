@@ -11,9 +11,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * Created by mrahman on 09/09/18.
- */
 
 public class ConnectToMongoDB {
 

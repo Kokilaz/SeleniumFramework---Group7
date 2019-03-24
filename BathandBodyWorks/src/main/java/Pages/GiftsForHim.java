@@ -12,6 +12,5 @@ public class GiftsForHim extends CommonAPI {
         WebElement GFHTab = driver.findElement(By.cssSelector("#secondary > div.filter-overflow > div.filter-content > div.active-sub-category > ul:nth-child(4) > li:nth-child(2) > a"));
         wait.until(ExpectedConditions.visibilityOf(GFHTab));
         GFHTab.click();
-
     }
 }

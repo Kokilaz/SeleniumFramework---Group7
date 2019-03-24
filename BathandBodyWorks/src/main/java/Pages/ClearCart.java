@@ -27,6 +27,4 @@ public class ClearCart extends CommonAPI {
         Clearonemore.click();
         driver.navigate().back();
     }
-
-
 }

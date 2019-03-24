@@ -3,6 +3,7 @@ package Pages;
 import Base.CommonAPI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class CartPage extends CommonAPI {
@@ -35,7 +36,5 @@ public class CartPage extends CommonAPI {
         cartItem5 = driver.findElement(By.cssSelector("#cart-table > tbody > tr:nth-child(5) > td.item-details > div > div.name > a"));
         cartName5 = cartItem5.getText();
         System.out.println(cartName5);
-
-
-    }
+        }
 }

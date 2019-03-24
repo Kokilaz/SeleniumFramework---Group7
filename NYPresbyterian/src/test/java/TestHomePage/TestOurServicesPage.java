@@ -40,23 +40,6 @@ public class TestOurServicesPage extends OurServicesPage {
         driver.navigate().back();
     }
 
-    /*@Test
-    public void AmbulatoryCare(){
-        ourservicespage.AmbulatoryCare();
-        driver.navigate().back();
-    }
-
-    @Test
-    public void BurnCenter(){
-        ourservicespage.BurnCenter();
-        driver.navigate().back();
-    }
-
-    @Test
-    public void NYPOnDemand(){
-        ourservicespage.NYPOnDemand();
-    }*/
-
     @Test
     public void OpthalmolgicalSurgery(){
         ourservicespage.OpthalmolgicalSurgery();

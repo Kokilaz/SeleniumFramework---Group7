@@ -14,11 +14,9 @@ public class BlackCherryMerlot extends CommonAPI {
         BCMSoap = driver.findElement(By.xpath("//*[@id=\"31e36fd861f33caa629e25b124\"]/div[1]/a/div[3]/div[1]"));
         wait.until(ExpectedConditions.visibilityOf(BCMSoap));
         BCMSoap.click();
-
     }
 
     public static void LemonSoap(){
-
         WebDriverWait wait = new WebDriverWait(driver,1,5000);
         WebElement LemonSoap = driver.findElement(By.xpath("//*[@id=\"6b198f8999347baa76d7db734a\"]/div[1]/a/div[3]/div[1]"));
         wait.until(ExpectedConditions.visibilityOf(LemonSoap));
